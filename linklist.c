@@ -1,5 +1,5 @@
 // linklist.c
-
+// this the implementation file for linked lists
 
 #include "linklist.h"
 
